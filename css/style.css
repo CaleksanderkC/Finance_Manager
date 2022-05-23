@@ -1,0 +1,50 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    margin-top: auto;
+}
+
+
+span { 
+    display:block;
+    width:200px;
+    word-wrap:break-word;
+}
+
+.main {
+	max-width: 980px;
+	margin: auto;
+}
+
+
+.blog-footer {
+  padding: 1rem 0;
+  color: #727272;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: .05rem solid #e5e5e5;
+
+}
+
+.t-d-n {
+	text-decoration:  none;
+}
+
+.t-a-c {
+	text-align: center;
+}
+
+.min-height {
+	min-height: 8.5rem;
+	display: flex;
+    flex-direction: column;
+}
+
+#col-footer {
+	margin-top: auto;
+}
+
